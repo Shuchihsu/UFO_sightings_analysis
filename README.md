@@ -14,7 +14,7 @@ We have five search criteria. We design that people can fill out all the search 
        You just need to loosen up the criteria by putting in just a couple of them or just start with putting one of them and leave the rest blank
        to see what the data returns to you. But remember when the page load, there will be full dataset in front of you.
 
-       ![loading page](https://github.com/jkmom/UFO_sightings_challenge/blob/main/static/image/web_application.png)
+![loading page](https://github.com/jkmom/UFO_sightings_challenge/blob/main/static/image/web_application.png)
 
 ### Summary
 
