@@ -9,7 +9,7 @@
 
 ### Results
 
-       We have five search criteria. We design that people can fill out all the search criteria, a couple of them or fill out none of the columns. 
+We have five search criteria. We design that people can fill out all the search criteria, a couple of them or fill out none of the columns. 
        If you find yourself can’t see any results after you put the criteria in the search, maybe there is no matching data for the criteria you put in. 
        You just need to loosen up the criteria by putting in just a couple of them or just start with putting one of them and leave the rest blank
        to see what the data returns to you. But remember when the page load, there will be full dataset in front of you.
