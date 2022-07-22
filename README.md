@@ -2,16 +2,17 @@
 
 ## Overview of the analysis
 
-       Dana would like to create a web application in order to show the ufologist the data. We can create the application with JavaScript, HTML and .js file.
-       We also create a filter so the people review the data can filter with certain criteria to find their interested areas of UFOs.
+       Dana would like to create a web application in order to show the ufologist the data. We can create the
+       application with JavaScript, HTML and .js file.We also create a filter so the people review the data can filter with certain criteria 
+       to find their interested areas of UFOs.
 
 
 ### Results
 
-       We have five search criteria. We design that people can fill out all the search criteria, a couple of them or fill out none of the columns. If you find yourself 
-       can’t see any results after you put the criteria in the search, maybe there is no matching data for the criteria you put in. You just need to loosen up the 
-       criteria by putting in just a couple of them or just start with putting one of them and leave the rest blank to see what the data returns to you. But remember 
-       when the page load, there will be full dataset in front of you.
+       We have five search criteria. We design that people can fill out all the search criteria, a couple of them or fill out none of the columns. 
+       If you find yourself can’t see any results after you put the criteria in the search, maybe there is no matching data for the criteria you put in. 
+       You just need to loosen up the criteria by putting in just a couple of them or just start with putting one of them and leave the rest blank
+       to see what the data returns to you. But remember when the page load, there will be full dataset in front of you.
 
        ![loading page](https://github.com/jkmom/UFO_sightings_challenge/blob/main/static/image/web_application.png)
 
