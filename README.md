@@ -3,8 +3,8 @@
 ## Overview of the analysis
 
        Dana would like to create a web application in order to show the ufologist the data. We can create the
-       application with JavaScript, HTML and .js file.We also create a filter so the people review the data can filter with certain criteria 
-       to find their interested areas of UFOs.
+       application with JavaScript, HTML and .js file.We also create a filter so the people review the data can filter 
+       with certain criteria to find their interested areas of UFOs.
 
 
 ### Results
