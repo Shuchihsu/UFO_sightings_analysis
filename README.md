@@ -1,4 +1,4 @@
-# UFO_sightings_challenge
+# UFO_sightings_analysis
 
 ## Overview of the analysis
 
